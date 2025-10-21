@@ -5,14 +5,12 @@
 
 ## Project Description
 
-The **Quant Value Project (QVP)** is a student-led quantitative research initiative exploring modern approaches to **systematic trading and financial modeling**.  
-Our focus this semester spans three complementary domains:
+The **Quant Value Project (QVP)** is a quantitative research initiative exploring modern approaches to **algorithmic trading and financial modeling**.
+Our focus this semester (so far) spans three complementary domains:
 
-1. **Pairs Trading** – identifying statistically correlated equities and exploiting temporary deviations using cointegration and z-score thresholds.  
-2. **Market Sentiment Embeddings** – constructing vectorized sentiment representations from financial news and social media using transformer-based NLP models.  
-3. **Options Pricing** – implementing the **Black-Scholes model** for European contracts and extending toward stochastic or implied-volatility-driven variations.
-
-The goal is to merge classical finance theory with modern machine learning to build interpretable, data-driven trading strategies.
+1. **Pairs Trading** – identifying statistically correlated equities and exploiting temporary deviations using cointegration and z-score thresholds.
+2. **Market Sentiment Embeddings** – constructing vectorized sentiment representations from financial news and company filings using transformer-based NLP models such as finBERT.
+3. **Options Pricing** – implementing the **Black-Scholes model** for American-style contracts.
 
 ## Lead Contact Information
 
@@ -27,7 +25,7 @@ The goal is to merge classical finance theory with modern machine learning to bu
 
 | Name | Role | Email | GitHub |
 |------|------|--------|--------|
-| Severin Spagnola | Project Lead | [severin.spagnola@sjsu.edu] | [@severin-spagnola](https://github.com/yourGitHub) |
+| Severin Spagnola | Project Lead | [severin.spagnola@sjsu.edu] | [@severin-spagnola](https://github.com/severin-spagnola) |
 | [Name] | ABC XYZ | [email] | [@github](https://github.com/) |
 | [Name] | ABC XYZ | [email] | [@github](https://github.com/) |
 
