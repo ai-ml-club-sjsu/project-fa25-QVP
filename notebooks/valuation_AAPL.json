@@ -1,0 +1,36 @@
+{
+  "ticker": "AAPL",
+  "cik": "0000320193",
+  "gaap_ttm": {
+    "revenue_ttm": 442897000000.0,
+    "net_income_ttm": 193868000000.0,
+    "eps_diluted_ttm": 5.62,
+    "shares_out_latest": 14856722000.0
+  },
+  "valuation": {
+    "pe_anchor": 84.3,
+    "ps_anchor": 119.2448778404819,
+    "fair_value_mid": 101.77243892024094,
+    "fair_value_low": 84.3,
+    "fair_value_high": 119.2448778404819,
+    "current_price": null
+  },
+  "filings": [
+    {
+      "accession": "000032019325000073",
+      "primary": "aapl-20250628.htm"
+    },
+    {
+      "accession": "000032019325000057",
+      "primary": "aapl-20250329.htm"
+    },
+    {
+      "accession": "000032019325000008",
+      "primary": "aapl-20241228.htm"
+    },
+    {
+      "accession": "000032019324000081",
+      "primary": "aapl-20240629.htm"
+    }
+  ]
+}
