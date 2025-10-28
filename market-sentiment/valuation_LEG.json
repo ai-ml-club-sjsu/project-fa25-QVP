@@ -1,0 +1,34 @@
+{
+  "ticker": "LEG",
+  "cik": "0000058492",
+  "gaap_ttm": {
+    "revenue_ttm": 7880800000.0,
+    "net_income_ttm": 211100000.0,
+    "eps_diluted_ttm": 1.5299999999999998,
+    "diluted_shares_ttm": 138825000.0,
+    "cfo_ttm": 368900000.0,
+    "capex_ttm": 136300000.0,
+    "fcf_ttm": 232600000.0,
+    "rev_per_share": 56.767873221681974
+  },
+  "valuation": {
+    "pe_anchor": 18.36,
+    "ps_anchor": 68.12144786601837,
+    "fair_value_mid": 43.240723933009185,
+    "fair_value_low": 18.36,
+    "fair_value_high": 68.12144786601837,
+    "assumptions": {
+      "PE": 12.0,
+      "PS": 1.2
+    },
+    "dcf_anchor": 24.81,
+    "fair_value_blend": 34.02,
+    "current_price": null
+  },
+  "filings": [
+    {
+      "accession": "000005849225000458",
+      "primary": "leg-20250630.htm"
+    }
+  ]
+}
