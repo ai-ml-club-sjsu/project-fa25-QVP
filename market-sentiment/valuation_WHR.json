@@ -1,0 +1,56 @@
+{
+  "ticker": "WHR",
+  "cik": "0000106640",
+  "gaap_ttm": {
+    "revenue_ttm": 30666000000.0,
+    "net_income_ttm": 485000000.0,
+    "eps_diluted_ttm": 8.65,
+    "diluted_shares_ttm": 56150000.0,
+    "cfo_ttm": -2363000000.0,
+    "capex_ttm": 780000000.0,
+    "fcf_ttm": -3143000000.0,
+    "rev_per_share": 546.1442564559217
+  },
+  "valuation": {
+    "sector_used": "Consumer Discretionary / Auto & Components",
+    "band_used": "low",
+    "pe_anchor": 69.2,
+    "ps_anchor": 218.45770258236868,
+    "fair_value_low": 69.2,
+    "fair_value_mid": 143.82885129118435,
+    "fair_value_high": 218.45770258236868,
+    "assumptions": {
+      "PE": {
+        "low": 8,
+        "mid": 12,
+        "high": 16
+      },
+      "PS": {
+        "low": 0.4,
+        "mid": 0.7,
+        "high": 1.0
+      }
+    },
+    "dcf_anchor": -828.76,
+    "fair_value_blend": -342.47,
+    "current_price": null
+  },
+  "filings": [
+    {
+      "accession": "000010664025000140",
+      "primary": "whr-20250930.htm"
+    },
+    {
+      "accession": "000010664025000117",
+      "primary": "whr-20250630.htm"
+    },
+    {
+      "accession": "000010664025000075",
+      "primary": "whr-20250331.htm"
+    },
+    {
+      "accession": "000010664024000151",
+      "primary": "whr-20240930.htm"
+    }
+  ]
+}
